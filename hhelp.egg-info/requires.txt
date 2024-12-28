@@ -1,0 +1,4 @@
+google-generativeai
+nbformat
+nbconvert
+PyPDF2

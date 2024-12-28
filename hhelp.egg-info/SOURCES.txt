@@ -1,0 +1,11 @@
+setup.py
+hhelp/__init__.py
+hhelp/a.py
+hhelp/config.py
+hhelp/f.py
+hhelp/utils.py
+hhelp.egg-info/PKG-INFO
+hhelp.egg-info/SOURCES.txt
+hhelp.egg-info/dependency_links.txt
+hhelp.egg-info/requires.txt
+hhelp.egg-info/top_level.txt
